@@ -106,6 +106,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 
 - [Web3 Event Analytics: The Complete Guide to Analytics & Attribution for Crypto and DeFi (2026)](https://formo.so/blog/web3-event-analytics-the-complete-guide-to-analytics-attribution-for-web3): How to combine onchain and offchain data tracking to measure user behavior across dApps and connect campaigns to blockchain transactions.
 - [What is Web3 Attribution? How to Build an Onchain Attribution System](https://formo.so/blog/web3-attribution-onchain-attribution-system): How to track user journeys from initial discovery through onchain conversion by connecting wallet addresses to marketing touchpoints.
+- [The DeFi Analytics Stack: Platforms, Approaches, and Tradeoffs](https://formo.so/blog/defi-crypto-analytics-stack): Why traditional analytics tools fail in DeFi, comparing crypto-native platforms, onchain data systems, and custom builds for measuring growth and user behavior.
 
 ## Newsletter 📬
 
